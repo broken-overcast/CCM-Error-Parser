@@ -1,2 +1,2 @@
-# CCM-Log-Parser
+# CCM-Error-Parser
 CCM Log Parser
